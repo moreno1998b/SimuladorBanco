@@ -9,7 +9,7 @@
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
     <jar href="SimuladorBanco.jar" size="2325" download="eager" />
-    <jar href="lib\ImplementarCola.jar" size="6342" download="eager" />
+    <jar href="lib\ImplementarCola.jar" size="3453" download="eager" />
   </resources>
   <jfx:javafx-desc  width="800" height="600" main-class="simuladorbanco.SimuladorBanco"  name="SimuladorBanco" />
   <update check="always"/>
